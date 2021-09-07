@@ -1,0 +1,11 @@
+========================== Receipt ==========================
+First Name             : speeds
+Surname                : pleb
+Age                    : 17
+City                   : dubai
+Nic/passport Number    : 12345678
+Booth                  : 2
+Vaccine type           : Sinopharm
+
+Receipt created at     : 06:19:09 25/07/2021
+=============================================================

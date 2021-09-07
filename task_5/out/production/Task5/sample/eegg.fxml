@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="827.0" prefWidth="849.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Eegg">
+   <children>
+      <ImageView fitHeight="850.0" fitWidth="850.0">
+         <image>
+            <Image url="@Kizura.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
